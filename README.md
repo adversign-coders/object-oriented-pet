@@ -2,6 +2,8 @@
 
 This repository contains the result of the adversign media live coding session 1.
 
+![](docs/uml.png)
+
 ## Goals
 - Build "something" in less than 1 hour.
 - Teach OOP-Thinking.
@@ -30,5 +32,4 @@ pet.on(Pet.EVENT_STATE_CHANGE, (pet) => {
   const { name, state } = pet;
   console.log(`${name} is now ${state.constructor.name}`);
 });
-
 ```

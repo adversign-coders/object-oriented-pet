@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/adversign-coders/object-oriented-pet/issues"
   },
-  "homepage": "https://github.com/adversign-coders/object-oriented-pet#readme"
+  "homepage": "https://github.com/adversign-coders/object-oriented-pet#readme",
+  "devDependencies": {
+    "jest": "^18.1.0"
+  }
 }

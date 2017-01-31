@@ -1,3 +1,4 @@
 module.exports = {
-  Pet: require('./Pet')
+  Pet: require('./Pet'),
+  states: require('./states')
 };
